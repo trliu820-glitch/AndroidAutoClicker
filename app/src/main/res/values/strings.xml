@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">手机连点器</string>
+    <string name="accessibility_service_label">手机连点器</string>
+    <string name="accessibility_service_description">用于按用户选择的位置执行重复点击。</string>
+</resources>
